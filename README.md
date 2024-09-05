@@ -2,6 +2,9 @@
 
 # Oyun
 ![resim1](https://github.com/furkancan2107/Pop_Attack_unity/blob/main/shoting.gif?raw=true)
+
+[Rar dosyasını indirmek için buraya tıklayın](./shoting.rar)
+
 # Özellikler
   
      Oyun, 10 saniyede bir ortaya çıkan balonlarla oynanıyor.
